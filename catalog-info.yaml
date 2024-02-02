@@ -5,6 +5,8 @@ metadata:
   annotations:
     github.com/project-slug: jihoon15/test_backstage
     jenkins.io/job-full-name: test_backstage/jenkins_test_backstage
+		jenkins.io/github-folder: 'jihoon15/test_backstage'
+    jenkins.io/job-full-name: "jenkins_test_backstage"
 spec:
   type: other
   lifecycle: unknown
