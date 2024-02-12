@@ -4,7 +4,8 @@ metadata:
   name: test_backstage
   annotations:
     github.com/project-slug: jihoon15/test_backstage
+    jenkins.io/job-full-name: jenkins_test_backstage
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: guests
