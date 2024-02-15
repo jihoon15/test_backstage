@@ -5,7 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: jihoon15/test_backstage
     jenkins.io/job-full-name: jenkins_test_backstage
-    jira.io/project-key: "TB"
+    jira.com/project-key: "TB"
     #jira/project-key: TB
 spec:
   type: service
