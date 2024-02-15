@@ -6,7 +6,7 @@ metadata:
     github.com/project-slug: jihoon15/test_backstage
     jenkins.io/job-full-name: jenkins_test_backstage
     jira.com/project-key: "TB"
-    #jira/project-key: TB
+    jira/project-key: "TB"
 spec:
   type: service
   lifecycle: unknown
