@@ -4,7 +4,7 @@ metadata:
   name: test_backstage
   annotations:
     github.com/project-slug: jihoon15/test_backstage
-    jenkins.io/job-full-name: CD:test_bs_CD
+    jenkins.io/job-full-name: test_pipeline
     # jira.com/project-key: PLEASE
     # jira/project-key: PLEASE
 spec:
